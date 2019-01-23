@@ -11,8 +11,8 @@ mailchimp-list: ''
 
 # Authors
 authors:
-  Momoxa:
-    name: Momoxa
+  momoxa:
+    name: momoxa
     display_name: Momoxa
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
